@@ -1,0 +1,5 @@
+Characters = 41
+Rowes = 3
+Vowels = 13
+Consonants = 19
+Digits = 1
